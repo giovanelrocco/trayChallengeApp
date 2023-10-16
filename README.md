@@ -5,7 +5,7 @@ realizar o cadastro das vendas para vendedores e calcular a comissão sobre elas
 
 ## Requisitos
 
-- Node [HERD](https://nodejs.org/)
+- Nodejs [Node](https://nodejs.org/)
 
 ## Clonar Repo
 
